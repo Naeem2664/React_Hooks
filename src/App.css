@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.btn{
+  background: rgb(231, 196, 150);
+  margin: 5px;
+}
+.context{
+  border: 2px solid black;
+  width: 100%;
+}
+.memo{
+  border: 2px solid black;
+}
